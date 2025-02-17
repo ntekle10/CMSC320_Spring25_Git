@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an example. 
+
+Answer: The field that data science could be applied to is finance/marketing.
+ 
