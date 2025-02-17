@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: To help keep track of changes in the file and have the ability to look back on previous versions when you think the code you write is wrong.
+:
+
